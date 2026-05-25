@@ -64,8 +64,8 @@ local Entities = {
     ["RushMoving"] = {
         Alias = "Rush",
         NotifyMessage = {
-            Title = "Entity 'Rush' has spawned. dont worry, you have godmode enabled!",
-            Body = "Find a hiding spot."
+            Title = "Entity 'Rush' has spawned.",
+            Body = "Find a hiding spot.  dont worry, you have godmode enabled!"
         }
     },
     ["AmbushMoving"] = {
