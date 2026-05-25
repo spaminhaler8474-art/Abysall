@@ -64,112 +64,112 @@ local Entities = {
     ["RushMoving"] = {
         Alias = "Rush",
         NotifyMessage = {
-            Title = "Entity 'Rush' has spawned.",
+            Title = "Entity 'Rush' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["AmbushMoving"] = {
         Alias = "Ambush",
         NotifyMessage = {
-            Title = "Entity 'Ambush' has spawned.",
+            Title = "Entity 'Ambush' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["Eyes"] = {
         Alias = "Eyes",
         NotifyMessage = {
-            Title = "Entity 'Eyes' has spawned.",
+            Title = "Entity 'Eyes' has spawned. dont worry, you have godmode enabled!",
             Body = "Avoid looking at it."
         }
     },
     ["Lookman"] = {
         Alias = "Eyes",
         NotifyMessage = {
-            Title = "Entity 'Eyes' has spawned.",
+            Title = "Entity 'Eyes' has spawned. dont worry, you have anti damage enabled!",
             Body = "Avoid looking at it."
         }
     },
     ["BackdoorRush"] = {
         Alias = "Blitz",
         NotifyMessage = {
-            Title = "Entity 'Blitz' has spawned.",
+            Title = "Entity 'Blitz' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["BackdoorLookman"] = {
         Alias = "Lookman",
         NotifyMessage = {
-            Title = "Entity 'Lookman' has spawned.",
+            Title = "Entity 'Lookman' has spawned. dont worry, you have bypass enabled!",
             Body = "Avoid looking at its eyes."
         }
     },
     ["Groundskeeper"] = {
         Alias = "Groundskeeper",
         NotifyMessage = {
-            Title = "Entity 'Groundskeeper' has spawned.",
+            Title = "Entity 'Groundskeeper' has spawned. dont worry, you have bypass enabled!",
             Body = "Avoid stepping on the grass."
         }
     },
     ["A60"] = {
         Alias = "A-60",
         NotifyMessage = {
-            Title = "Entity 'A-60' has spawned.",
+            Title = "Entity 'A-60' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["A120"] = {
         Alias = "A-120",
         NotifyMessage = {
-            Title = "Entity 'A-120' has spawned.",
+            Title = "Entity 'A-120' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["GloombatSwarm"] = {
         Alias = "Gloombat Swarm",
         NotifyMessage = {
-            Title = "Entity 'Gloombat Swarm' has spawned.",
+            Title = "Entity 'Gloombat Swarm' has spawned. dont worry, you have godmode enabled!",
             Body = "Keep all light sources turned off."
         }
     },
     ["GlitchRush"] = {
         Alias = "RNIUSHCG==",
        NotifyMessage = {
-            Title = "Entity 'RNIUSHCG==' has spawned.",
+            Title = "Entity 'RNIUSHCG==' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["GlitchAmbush"] = {
         Alias = "AR0xMBUSH",
         NotifyMessage = {
-            Title = "Entity 'AR0xMBUSH' has spawned.",
+            Title = "Entity 'AR0xMBUSH' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["MonumentEntity"] = {
         Alias = "Monument",
          NotifyMessage = {
-            Title = "Entity 'Monument' has spawned.",
+            Title = "Entity 'Monument' has spawned. dont worry, you have godmode enabled!",
             Body = "It cannot move while you are looking at it."
         }
     },
     ["JeffTheKiller"] = {
         Alias = "Jeff the Killer",
         NotifyMessage = {
-            Title = "Entity 'Jeff the Killer' has spawned.",
+            Title = "Entity 'Jeff the Killer' has spawned. wait until it kills itself!",
             Body = "Avoid touching him."
         }
     },
     ["CustomEntity"] = {
         Alias = "Custom Entity",
         NotifyMessage = {
-            Title = "Entity 'Custom Entity' has spawned.",
+            Title = "Entity 'Custom Entity' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
     ["FrozenAmbush"] = {
         Alias = "Frozen Ambush",
         NotifyMessage = {
-            Title = "Entity 'Frozen Ambush' has spawned.",
+            Title = "Entity 'Frozen Ambush' has spawned. dont worry, you have godmode enabled!",
             Body = "Find a hiding spot."
         }
     },
