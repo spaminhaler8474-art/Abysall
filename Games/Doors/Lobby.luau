@@ -36,8 +36,8 @@ end
 task.wait(1)
 
 local Window = Library:CreateWindow({
-    Title = "Abysall Hub",
-    Footer = "Abysall Hub - Beta | Doors (Lobby)",
+    Title = "FireGamingHub",
+    Footer = "FireGamingHub | Doors (Lobby)",
     NotifySide = "Right",
     ShowCustomCursor = false,
     AutoShow = true,
